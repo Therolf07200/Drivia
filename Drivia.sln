@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{B6B97C1F-39FB-472F-A242-0B308BA372D6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Drivia", "Drivia\Drivia.vcxproj", "{6E42FA70-D495-4262-9610-294C90FDFFC4}"
+EndProject
+
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E42FA70-D495-4262-9610-294C90FDFFC4}.Debug|x64.ActiveCfg = Debug|x64
+		{6E42FA70-D495-4262-9610-294C90FDFFC4}.Debug|x64.Build.0 = Debug|x64
+		{6E42FA70-D495-4262-9610-294C90FDFFC4}.Release|x64.ActiveCfg = Release|x64
+		{6E42FA70-D495-4262-9610-294C90FDFFC4}.Release|x64.Build.0 = Release|x64
+		{B6B97C1F-39FB-472F-A242-0B308BA372D6}.Debug|x64.ActiveCfg = Debug|x64
+		{B6B97C1F-39FB-472F-A242-0B308BA372D6}.Debug|x64.Build.0 = Debug|x64
+		{B6B97C1F-39FB-472F-A242-0B308BA372D6}.Release|x64.ActiveCfg = Release|x64
+		{B6B97C1F-39FB-472F-A242-0B308BA372D6}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE7C0ECB-E45C-483B-B730-C8957B8E68D7}
+	EndGlobalSection
+EndGlobal
